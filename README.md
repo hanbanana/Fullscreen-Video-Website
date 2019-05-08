@@ -5,5 +5,5 @@ Fullscreen Video Website
 ## Screenshot
 * Main Page
 <p align="center">
-  <img width="900" height="600" src="./utilities/FullscreenWebsiteMainPage.PNG">
+  <img width="500" height="400" src="./utilities/FullscreenWebsiteMainPage.PNG">
 </p>
